@@ -1,0 +1,15 @@
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\bin\Debug\CinemAPI.Domain.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\bin\Debug\CinemAPI.Domain.pdb
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\bin\Debug\CinemAPI.Data.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\bin\Debug\CinemAPI.Domain.Contracts.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\bin\Debug\CinemAPI.Models.Contracts.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\bin\Debug\CinemAPI.Models.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\bin\Debug\CinemAPI.Data.pdb
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\bin\Debug\CinemAPI.Domain.Contracts.pdb
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\bin\Debug\CinemAPI.Models.Contracts.pdb
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\bin\Debug\CinemAPI.Models.pdb
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\obj\Debug\CinemAPI.Domain.csprojAssemblyReference.cache
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\obj\Debug\CinemAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\obj\Debug\CinemAPI.Domain.csproj.CopyComplete
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\obj\Debug\CinemAPI.Domain.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Domain\obj\Debug\CinemAPI.Domain.pdb

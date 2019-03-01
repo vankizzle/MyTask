@@ -1,0 +1,9 @@
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Models\bin\Debug\CinemAPI.Models.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Models\bin\Debug\CinemAPI.Models.pdb
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Models\bin\Debug\CinemAPI.Models.Contracts.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Models\bin\Debug\CinemAPI.Models.Contracts.pdb
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Models\obj\Debug\CinemAPI.Models.csprojAssemblyReference.cache
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Models\obj\Debug\CinemAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Models\obj\Debug\CinemAPI.Models.csproj.CopyComplete
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Models\obj\Debug\CinemAPI.Models.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Models\obj\Debug\CinemAPI.Models.pdb

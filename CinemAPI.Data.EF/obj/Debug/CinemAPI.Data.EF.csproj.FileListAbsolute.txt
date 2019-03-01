@@ -1,0 +1,16 @@
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\bin\Debug\CinemAPI.Data.EF.dll.config
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\bin\Debug\CinemAPI.Data.EF.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\bin\Debug\CinemAPI.Data.EF.pdb
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\bin\Debug\CinemAPI.Models.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\bin\Debug\EntityFramework.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\bin\Debug\CinemAPI.Models.Contracts.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\bin\Debug\CinemAPI.Models.pdb
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\bin\Debug\EntityFramework.xml
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\bin\Debug\CinemAPI.Models.Contracts.pdb
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\obj\Debug\CinemAPI.Data.EF.csprojAssemblyReference.cache
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\obj\Debug\CinemAPI.Data.EF.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\obj\Debug\CinemAPI.Data.EF.csproj.CopyComplete
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\obj\Debug\CinemAPI.Data.EF.dll
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Data.EF\obj\Debug\CinemAPI.Data.EF.pdb
