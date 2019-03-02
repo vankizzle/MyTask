@@ -3,4 +3,3 @@ C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Models.Contrac
 C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Models.Contracts\obj\Debug\CinemAPI.Models.Contracts.csproj.CoreCompileInputs.cache
 C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Models.Contracts\obj\Debug\CinemAPI.Models.Contracts.dll
 C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Models.Contracts\obj\Debug\CinemAPI.Models.Contracts.pdb
-C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI.Models.Contracts\obj\Debug\CinemAPI.Models.Contracts.csprojAssemblyReference.cache

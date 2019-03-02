@@ -105,7 +105,7 @@ namespace CinemAPI.Controllers
             }
             else
             {
-                IReservationTicketCreation resmodel = new ReservationTicket(tmpproj.StartDate, moviename, tmpcinema.Name, tmproom.Number, model.ReservationRow, model.ReservationColumn);
+                IReservationTicketCreation resmodel = new ReservationTicket(model.ProjectionID, tmpproj.StartDate, moviename, tmpcinema.Name, tmproom.Number, model.ReservationRow, model.ReservationColumn);
                 ReservationTicketRepo.InsertReservation(resmodel);
                 projRepo.DecreaseAvailableSeatCount(model.ProjectionID);
                 return Ok(resmodel);
@@ -137,7 +137,7 @@ namespace CinemAPI.Controllers
             }
             else
             {
-                IReservationTicketCreation ticket = new ReservationTicket(proj.StartDate, moviename, cinema.Name, room.Number, model.ReservationRow, model.ReservationColumn);
+                IReservationTicketCreation ticket = new ReservationTicket(model.ProjectionID,proj.StartDate, moviename, cinema.Name, room.Number, model.ReservationRow, model.ReservationColumn);
                 ReservationTicketRepo.InsertTicket(ticket);
                 projRepo.DecreaseAvailableSeatCount(model.ProjectionID);
                 return Ok(ticket);
@@ -161,6 +161,7 @@ namespace CinemAPI.Controllers
             {
                 var ticket = ReservationTicketRepo.ConvertReservationToTicket(ReservationID);
                 ReservationTicketRepo.InsertTicket(ticket);
+                projRepo.DecreaseAvailableSeatCount(ticket.ProjectionID);
                 return Ok(ticket);
             }
         }

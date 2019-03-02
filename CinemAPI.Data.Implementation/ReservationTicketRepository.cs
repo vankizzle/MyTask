@@ -22,7 +22,7 @@ namespace CinemAPI.Data.Implementation
         {
             IReservationTicket reservation = GetReservation(ReservationID);
 
-            IReservationTicketCreation ticket = new ReservationTicket(reservation.ProjectionStartDate, reservation.MovieName,
+            IReservationTicketCreation ticket = new ReservationTicket(reservation.ProjectionID, reservation.ProjectionStartDate, reservation.MovieName,
             reservation.CinemaName, reservation.RoomNumber, reservation.Row, reservation.Column);
 
             db.Reservations.Remove((ReservationTicket)reservation);
@@ -79,7 +79,7 @@ namespace CinemAPI.Data.Implementation
 
         public void InsertReservation(IReservationTicketCreation resticket)
         {
-            ReservationTicket newTicket = new ReservationTicket(resticket.ProjectionStartDate, resticket.MovieName, resticket.CinemaName, resticket.RoomNumber, resticket.Row, resticket.Column);
+            ReservationTicket newTicket = new ReservationTicket(resticket.ProjectionID, resticket.ProjectionStartDate, resticket.MovieName, resticket.CinemaName, resticket.RoomNumber, resticket.Row, resticket.Column);
 
             db.Reservations.Add(newTicket);
             db.SaveChanges();
@@ -87,7 +87,7 @@ namespace CinemAPI.Data.Implementation
 
         public void InsertTicket(IReservationTicketCreation ticket)
         {
-            ReservationTicket newTicket = new ReservationTicket(ticket.ProjectionStartDate, ticket.MovieName, ticket.CinemaName, ticket.RoomNumber, ticket.Row, ticket.Column);
+            ReservationTicket newTicket = new ReservationTicket(ticket.ProjectionID,ticket.ProjectionStartDate, ticket.MovieName, ticket.CinemaName, ticket.RoomNumber, ticket.Row, ticket.Column);
             db.Tickets.Add(newTicket);
             db.SaveChanges();
         }
