@@ -1,5 +1,3 @@
-C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI\obj\Debug\CinemAPI.csprojAssemblyReference.cache
-C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI\obj\Debug\CinemAPI.csproj.CoreCompileInputs.cache
 C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI\bin\CinemAPI.dll.config
 C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI\bin\CinemAPI.dll
 C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI\bin\CinemAPI.pdb
@@ -92,6 +90,8 @@ C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI\bin\Microsoft.
 C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI\bin\CinemAPI.Data.EF.pdb
 C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI\bin\CinemAPI.Data.EF.dll.config
 C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI\bin\CinemAPI.Domain.pdb
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI\obj\Debug\CinemAPI.csprojAssemblyReference.cache
+C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI\obj\Debug\CinemAPI.csproj.CoreCompileInputs.cache
 C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI\obj\Debug\CinemAPI.csproj.CopyComplete
 C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI\obj\Debug\CinemAPI.dll
 C:\Users\Ivan\Source\Repos\ikarimanov_ultraplay\cinemapi\CinemAPI\obj\Debug\CinemAPI.pdb

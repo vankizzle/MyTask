@@ -10,10 +10,22 @@ namespace CinemAPI.Data
     public interface IReservationTicketRepository
     {
 
-        void Insert(IReservationTicketCreation resticket);
+        void InsertReservation(IReservationTicketCreation resticket);
 
-        IReservationTicket Get(int ID);
+        void InsertTicket(IReservationTicketCreation resticket);
+
+        IReservationTicket GetReservation(int ID);
+
+        IReservationTicket GetTicket(int ID);
 
         bool IsSeatReserved(int row, int col);
+
+        bool CancelReservation(int ReservationID);
+
+        void CalcelAllReservationIn10min();
+
+        bool TicketExists(int ID);
+
+        IReservationTicketCreation ConvertReservationToTicket(int ReservationID);
     }
 }

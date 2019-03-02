@@ -39,9 +39,30 @@ namespace CinemAPI.Data.Implementation
             db.SaveChanges();
         }
 
-        public IProjection Get(int projectionId)
+        public IProjection Get(long projectionId)
         {
             return db.Projections.FirstOrDefault(x => x.Id == projectionId);
         }
+
+        public void DecreaseAvailableSeatCount(long projID)
+        {
+            var entity = Get(projID);
+            entity.AvailableSeatsCount--;
+            db.SaveChanges();
+
+        }
+
+        public void IncreaseAvailableSeatCount(long projID)
+        {
+            var entity = Get(projID);
+            entity.AvailableSeatsCount++;
+            db.SaveChanges();
+        }
+
+        public string GetProjectionMovieName(long projID)
+        {
+            return db.Projections.FirstOrDefault(x => x.Id == projID).Movie.Name;
+        }
+
     }
 }

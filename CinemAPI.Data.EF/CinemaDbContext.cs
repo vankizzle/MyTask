@@ -26,6 +26,8 @@ namespace CinemAPI.Data.EF
 
         public virtual IDbSet<ReservationTicket> Reservations { get; set; }
 
+        public virtual IDbSet<ReservationTicket> Tickets { get; set; }
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             IEnumerable<IModelConfiguration> modelConfigurations = new List<IModelConfiguration>()

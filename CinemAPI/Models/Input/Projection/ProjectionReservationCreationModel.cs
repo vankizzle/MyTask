@@ -7,7 +7,7 @@ namespace CinemAPI.Models.Input.Projection
 {
     public class ProjectionReservationCreationModel
     {
-        public int ProjectionID { get; set; }
+        public long ProjectionID { get; set; }
 
         public int ReservationRow { get; set; }
 
